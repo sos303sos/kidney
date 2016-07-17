@@ -1,0 +1,1 @@
+./bin/mongod --dbpath ./data --logappend --rest --httpinterface --logpath ./logs/mongo.log
